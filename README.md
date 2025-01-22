@@ -4,6 +4,9 @@
 
 NFV Network is a modern, decentralized platform focused on creating a positive environmental and social impact through innovative technologies and community-driven initiatives. The website serves as a hub to showcase our efforts, engage volunteers, and highlight our measurable contributions to sustainability.
 
+![image](https://github.com/user-attachments/assets/1c64d6af-b18a-41c8-b858-7a3cf0fe987f)
+
+
 ---
 
 ## 🚀 Features
